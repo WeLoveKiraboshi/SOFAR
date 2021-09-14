@@ -1,0 +1,7 @@
+ros_lab_1_2019_2020/swarm
+/user/eleves/zzekeri2020/ros/devel/.private/swarm/cmake.lock /user/eleves/zzekeri2020/ros/devel/./cmake.lock
+/user/eleves/zzekeri2020/ros/devel/.private/swarm/share/swarm/cmake/swarmConfig.cmake /user/eleves/zzekeri2020/ros/devel/share/swarm/cmake/swarmConfig.cmake
+/user/eleves/zzekeri2020/ros/devel/.private/swarm/share/swarm/cmake/swarmConfig-version.cmake /user/eleves/zzekeri2020/ros/devel/share/swarm/cmake/swarmConfig-version.cmake
+/user/eleves/zzekeri2020/ros/devel/.private/swarm/lib/swarm/swarm_behavior /user/eleves/zzekeri2020/ros/devel/lib/swarm/swarm_behavior
+/user/eleves/zzekeri2020/ros/devel/.private/swarm/lib/swarm/swarm_node /user/eleves/zzekeri2020/ros/devel/lib/swarm/swarm_node
+/user/eleves/zzekeri2020/ros/devel/.private/swarm/lib/pkgconfig/swarm.pc /user/eleves/zzekeri2020/ros/devel/lib/pkgconfig/swarm.pc

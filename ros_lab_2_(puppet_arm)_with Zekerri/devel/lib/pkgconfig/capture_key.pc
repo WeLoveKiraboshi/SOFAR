@@ -1,0 +1,5 @@
+XSym
+0084
+47286cbe34212014e739873b85f7e255
+/user/eleves/zzekeri2020/ros/devel/.private/capture_key/lib/pkgconfig/capture_key.pc
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

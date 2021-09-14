@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target capture_key_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/capture_key_node.dir/src/capture_key_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /user/eleves/zzekeri2020/ros/devel/.private/capture_key/lib/capture_key/capture_key_node[0m
+[100%] Built target capture_key_node

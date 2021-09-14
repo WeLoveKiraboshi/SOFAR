@@ -1,0 +1,14 @@
+[31m[1mCMake Error[0m at /user/eleves/zzekeri2020/ros/src/puppet_arm/CMakeLists.txt:107 (add_executable):
+  Cannot find source file:
+
+    src/puppet_arm_node.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+[31m[1mCMake Error[0m at /user/eleves/zzekeri2020/ros/src/puppet_arm/CMakeLists.txt:107 (add_executable):
+  No SOURCES given to target: puppet_arm_node
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

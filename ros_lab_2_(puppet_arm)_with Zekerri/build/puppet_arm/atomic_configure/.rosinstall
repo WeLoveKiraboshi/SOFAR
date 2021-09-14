@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /user/eleves/zzekeri2020/ros/devel/.private/puppet_arm/setup.sh

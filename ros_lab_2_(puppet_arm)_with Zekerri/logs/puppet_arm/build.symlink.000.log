@@ -1,0 +1,4 @@
+Symlinking /user/eleves/zzekeri2020/ros/devel/share/puppet_arm/cmake/puppet_armConfig.cmake
+Symlinking /user/eleves/zzekeri2020/ros/devel/share/puppet_arm/cmake/puppet_armConfig-version.cmake
+Symlinking /user/eleves/zzekeri2020/ros/devel/lib/puppet_arm/puppet_arm_node
+Symlinking /user/eleves/zzekeri2020/ros/devel/lib/pkgconfig/puppet_arm.pc

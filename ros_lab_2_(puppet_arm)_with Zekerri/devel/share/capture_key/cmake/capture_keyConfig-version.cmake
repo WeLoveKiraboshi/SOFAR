@@ -1,0 +1,5 @@
+XSym
+0111
+cc826c9a923054c4e126921c5e5280eb
+/user/eleves/zzekeri2020/ros/devel/.private/capture_key/share/capture_key/cmake/capture_keyConfig-version.cmake
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

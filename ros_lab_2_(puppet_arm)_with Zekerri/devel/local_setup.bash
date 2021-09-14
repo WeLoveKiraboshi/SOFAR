@@ -1,0 +1,5 @@
+XSym
+0082
+cea0e01930d666f6bbbd9ac05c71c7ae
+/user/eleves/zzekeri2020/ros/devel/.private/catkin_tools_prebuild/local_setup.bash
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target swarm_behavior[0m
+[35m[1mScanning dependencies of target swarm_node[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/swarm_behavior.dir/src/swarm_behavior.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/swarm_node.dir/src/swarm_node.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /user/eleves/zzekeri2020/ros/devel/.private/swarm/lib/swarm/swarm_node[0m
+[100%] [32m[1mLinking CXX executable /user/eleves/zzekeri2020/ros/devel/.private/swarm/lib/swarm/swarm_behavior[0m
+[100%] Built target swarm_node
+[100%] Built target swarm_behavior

@@ -1,0 +1,5 @@
+Symlinking /user/eleves/zzekeri2020/ros/devel/share/swarm/cmake/swarmConfig.cmake
+Symlinking /user/eleves/zzekeri2020/ros/devel/share/swarm/cmake/swarmConfig-version.cmake
+Symlinking /user/eleves/zzekeri2020/ros/devel/lib/swarm/swarm_behavior
+Symlinking /user/eleves/zzekeri2020/ros/devel/lib/swarm/swarm_node
+Symlinking /user/eleves/zzekeri2020/ros/devel/lib/pkgconfig/swarm.pc

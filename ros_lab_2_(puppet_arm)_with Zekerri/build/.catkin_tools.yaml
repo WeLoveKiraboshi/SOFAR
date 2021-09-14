@@ -1,0 +1,6 @@
+devel_space: /user/eleves/zzekeri2020/ros/devel
+install: false
+install_space: /user/eleves/zzekeri2020/ros/install
+profile: default
+source_space: /user/eleves/zzekeri2020/ros/src
+workspace: /user/eleves/zzekeri2020/ros

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target puppet_arm_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/puppet_arm_node.dir/src/puppet_arm_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /user/eleves/zzekeri2020/ros/devel/.private/puppet_arm/lib/puppet_arm/puppet_arm_node[0m
+[100%] Built target puppet_arm_node

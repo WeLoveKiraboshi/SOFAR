@@ -1,0 +1,44 @@
+<launch>
+
+    <param name="/world_size" type="double" value="2.0"/>
+    
+    <node pkg="capture_key" type="capture_key_node" name="capture_key" clear_params="true" >
+
+    </node>
+    
+    
+    <node pkg="swarm" type="swarm_behavior" name="swarm_behavior_blue" clear_params="true" >
+		<param name="move_key" type="int" value="98" />
+		<remap from="/leader" to="/blue_leader_pos"/>
+    </node>
+    <node pkg="swarm" type="swarm_behavior" name="swarm_behavior_red" clear_params="true" >
+		<param name="move_key" type="int" value="114" />
+		 <remap from="/leader" to="/red_leader_pos"/> 
+    </node>
+    
+    
+    <node pkg="swarm" type="swarm_node" name="swarm_node_blue_1" clear_params="true" >
+    		 <remap from="/leader_pos" to="/blue_leader_pos"/> 
+
+    </node>
+    
+        
+    <node pkg="swarm" type="swarm_node" name="swarm_node_blue_2" clear_params="true" >
+    		 <remap from="/leader_pos" to="/blue_leader_pos"/> 
+
+    </node>
+    
+        
+    <node pkg="swarm" type="swarm_node" name="swarm_node_red_1" clear_params="true" >
+    		 <remap from="/leader_pos" to="/red_leader_pos"/> 
+
+    </node>
+    
+        
+    <node pkg="swarm" type="swarm_node" name="swarm_node_red_2" clear_params="true" >
+    		 <remap from="/leader_pos" to="/red_leader_pos"/> 
+
+    </node>
+    
+
+</launch>
